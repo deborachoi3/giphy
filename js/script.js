@@ -10,9 +10,14 @@ $("#search-button").click(function(){
       })
       .then(function(data) {
           console.log(data)
-            
-      })
+        //let image =  "https://media1.giphy.com/media/Xev2JdopBxGj1LuGvt/giphy.gif?cid=e1bb72ffcb9b5b814bbae886138f477eb3cb8840d46adba9&rid=giphy.gif"           
+        $(".gallery").append("<img src= 'https://media1.giphy.com/media/Xev2JdopBxGj1LuGvt/giphy.gif?cid=e1bb72ffcb9b5b814bbae886138f477eb3cb8840d46adba9&rid=giphy.gif'>")
+        
+    })
+
 });
+
+
 
   
 
