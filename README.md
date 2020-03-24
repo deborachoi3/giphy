@@ -27,8 +27,8 @@ Make sure to check off your items as you complete them. [ ] => [x]
 ## Day 2
 ### JS
 - [x] Display the image from your console log on the screen
-- [ ] Take user input from the input box when button is clicked
-- [ ] Update the API request url based on user input
+- [x] Take user input from the input box when button is clicked
+- [x] Update the API request url based on user input
 - [ ] Display the updated image on the screen 
 
 ### Wrap
